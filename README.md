@@ -7,3 +7,9 @@ A MILP (Mixed Integer Linear Programing) project built in Python to optimize foo
 * `notebooks/`: Optimization model script (`food_truck_optimizer.py`) and Jupyter notebook for generating results and sensitivity plots (`results_and_sensitivity`)
 * `results/`: Output for optimal lineup (`optimal_schedule.csv`) and sensitivity figures (`selected_trucks_profit.png`, `budget_sensitivity.png`)
 
+
+# How to run
+1. download zip file
+2. Open **Anaconda Navigator** and launch **Jupyter Notebook**
+3. Open `notebooks/results_and_sensitivity.ipynb` and run the code
+4. Enter desired minimum quality rating, event budget, and available space.
