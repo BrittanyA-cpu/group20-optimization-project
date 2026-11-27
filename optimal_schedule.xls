@@ -1,0 +1,10 @@
+Truck,Category,Revenue($),Cost($),Net Profit($),Space(sq ft),Quality
+Taco Loco,Mexican,5200.0,1800.0,3400.0,200.0,4.5
+Burrito Barn,Mexican,3800.0,1200.0,2600.0,160.0,3.6
+Smokin Joes BBQ,BBQ,6100.0,2400.0,3700.0,260.0,4.7
+Pizza On Wheels,Italian,4800.0,1500.0,3300.0,220.0,4.2
+Wok This Way,Asian,4100.0,1300.0,2800.0,180.0,3.9
+Seoul Food,Asian,5300.0,1900.0,3400.0,190.0,4.6
+Big Cheese Grilled,American,3900.0,1000.0,2900.0,150.0,3.8
+Burger Bus,American,5600.0,2000.0,3600.0,210.0,4.3
+Sweet Tooth,Dessert,3200.0,900.0,2300.0,120.0,4.4
