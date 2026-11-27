@@ -20,7 +20,7 @@ from gurobipy import GRB
 
 # Settings
 
-CSV_FILE = "food_trucks.csv"
+CSV_FILE = "data/food_trucks.csv"
 MIN_PER_CATEGORY = 1    # at least this many trucks from every category
 MAX_PER_CATEGORY = 2    # at most this many trucks from every category
 MIN_TRUCKS = 1          # L: minimum number of trucks
