@@ -9,7 +9,8 @@ A MILP (Mixed Integer Linear Programing) project built in Python to optimize foo
 
 
 # How to run
-1. download zip file
+1. Download zip file
 2. Open **Anaconda Navigator** and launch **Jupyter Notebook**
-3. Open `notebooks/results_and_sensitivity.ipynb` and run the code
-4. Enter desired minimum quality rating, event budget, and available space.
+3. Import Zip file
+4. Open `notebooks/results_and_sensitivity.ipynb` and run the code
+5. Enter desired minimum quality rating, event budget, and available space.
