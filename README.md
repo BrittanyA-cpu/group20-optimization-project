@@ -3,7 +3,14 @@
 A MILP (Mixed Integer Linear Programing) project built in Python to optimize food truck selection and lot distribution for a festival.
 
 # Folders
-* `data/` : Datasets generated for truck candidates and festival lots.
-* `notebooks/`:
-* `results/`: Output for results, tables, and figures
+* `data/` : Dataset of 18 candidate food trucks and 6 food catagories (`food_truck.csv`)
+* `notebooks/`: Optimization model script (`food_truck_optimizer.py`) and Jupyter notebook for generating results and sensitivity plots (`results_and_sensitivity`)
+* `results/`: Output for optimal lineup (`optimal_schedule.csv`) and sensitivity figures (`selected_trucks_profit.png`, `budget_sensitivity.png`)
 
+
+# How to run
+1. Download zip file
+2. Open **Anaconda Navigator** and launch **Jupyter Notebook**
+3. Import Zip file
+4. Open `notebooks/results_and_sensitivity.ipynb` and run the code
+5. Enter desired minimum quality rating, event budget, and available space.
